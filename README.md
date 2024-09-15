@@ -6,4 +6,4 @@
 
 安装成功截图：
 
-![ubuntu_install](D:\ubuntu_install.png)
+![ubuntu_install](https://github.com/user-attachments/assets/ba1c72f4-6210-4875-9fb0-010206a72d9e)
